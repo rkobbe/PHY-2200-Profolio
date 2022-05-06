@@ -24,4 +24,7 @@ Branch 04 the final branch holds our project on Brownian Motion
 
 In this project e research the question, How can we model Brownian Motion by simulating a pollen particle in water? We learn about the effects of Brownian Motion and how it came into effect.
 
+# Citations and Acknowledgements
 
+  * Dr. Aaron Titus, Professor of Physics, High Point University.
+  * Mike Blanchard, High Point University 
