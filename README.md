@@ -1,6 +1,10 @@
 # PHY-2200-Profolio
 
+#Intorduction
+
 For Computational Physics PHY-2200 at High Point University, we were given 5 projects which were combined into our portfolio. Each branch consists of each of the projects which were assigned during our time in the class. Mike Blanchard and I worked on each of these projects together. 
+
+#Projects
 
 Branch 00 holds our Plinko Board project. 
 
