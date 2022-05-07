@@ -24,7 +24,7 @@ Our goal was to model the trajectory a curveball pitch with an [ODE](https://git
 
 In this project, we designed a system that uses coupled oscillators. In class, we investigated osculators that were free on both ends. For our project, we wanted to see the effects a fixed left end had on the eigenvalues, our graph, and our model for each mode. We were able to test different parameters and draw conclusions on the different models.
 
-Branch 04 the final branch holds our project on Brownian Motion 
+[Project 04 Brownian Motion](https://github.com/rkobbe/PHY-2200-Profolio/blob/main/BrownianMotion.ipynb)
 
 In this project e research the question, How can we model Brownian Motion by simulating a pollen particle in water? We learn about the effects of Brownian Motion and how it came into effect.
 
