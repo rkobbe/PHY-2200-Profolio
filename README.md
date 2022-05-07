@@ -6,6 +6,8 @@ For Computational Physics PHY-2200 at High Point University, we were given 5 pro
 
 # Projects
 
+Project 00 Planko Board (https://github.com/rkobbe/PHY-2200-Profolio/blob/main/PlankoBoard.ipynb) 
+
 For this project, Mike and I decided to look into the Plinko Board. A Plinko board is a game where the player takes a chip or a ball and drops a box that has pins located in it. The ball then bounces off of each of the pins until it reaches the bottom of the board. 
 
 We wanted to study collisions and the force of gravity with this project. What effects does the starting position have on the way the ball collides with the rods? Below we will discuss the scientific process we went through from measuring the ball drop. 
