@@ -18,7 +18,7 @@ The goal for the project was to use multiple differential equations and an RK4 [
 
 [Project 02 CurveBall](https://github.com/rkobbe/PHY-2200-Profolio/blob/main/CurveBall.ipynb) 
 
-Our goal was to model the trajectory a curveball pitch with an [ODE](https://github.com/rkobbe/PHY-2200-Profolio/blob/main/ode.py). This includes viewing where the ball crosses the plate, a side view, and a top down view. After completing a single mode, we plotted mulitple pitches; specially we looked at where in the strike zone the curveball crossed. Additionally, we used different spinerates and velocities to get acurate data. We collected our data from the top 10 pitcher's average curveball leaderboard from Baseball Savant
+Our goal was to model the trajectory a curveball pitch with an [ODE](https://github.com/rkobbe/PHY-2200-Profolio/blob/main/ode.py). This includes viewing where the ball crosses the plate, a side view, and a top down view. After completing a single mode, we plotted mulitple pitches; specially we looked at where in the strike zone the curveball crossed. Additionally, we used different spinerates and velocities to get acurate data. We collected our data from the top 10 pitcher's average curveball leaderboard from [Baseball Savant](https://github.com/rkobbe/PHY-2200-Profolio/blob/main/curveball.txt).
 
 [Project 03 Coupled Oscillators](https://github.com/rkobbe/PHY-2200-Profolio/blob/main/CoupledOscillators.ipynb)
 
