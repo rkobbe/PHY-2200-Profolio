@@ -12,9 +12,10 @@ For this project, Mike and I decided to look into the Plinko Board. A Plinko boa
 
 We wanted to study collisions and the force of gravity with this project. What effects does the starting position have on the way the ball collides with the rods? Below we will discuss the scientific process we went through from measuring the ball drop. 
 
-Branch 01 holds our Double Pendulum Project 
+[Project 01 Double Pendulum](https://github.com/rkobbe/PHY-2200-Profolio/blob/main/DoublePendulum.ipynb)
 
-The goal for the project was to use multiple differential equations and an RK4 ODE method to model a double pendulum. We wanted to investigate the motion of a double pendulum and see how changing parameters would effect the model.
+The goal for the project was to use multiple differential equations and an RK4 [ODE] method to model a double pendulum. We wanted to investigate the motion of a double pendulum and see how changing parameters would effect the model.
+
 
 Branch 02 contains a simulation of a curveball pitch 
 
