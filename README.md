@@ -10,7 +10,7 @@ For Computational Physics PHY-2200 at High Point University, we were given 5 pro
 
 For this project, Mike and I decided to look into the Plinko Board. A Plinko board is a game where the player takes a chip or a ball and drops a box that has pins located in it. The ball then bounces off of each of the pins until it reaches the bottom of the board. 
 
-We wanted to study collisions and the force of gravity with this project. What effects does the starting position have on the way the ball collides with the rods? Below we will discuss the scientific process we went through from measuring the ball drop. 
+We wanted to study collisions and the force of gravity with this project. What effects does the starting position have on the way the ball collides with the rods? We will discuss the scientific process we went through from measuring the ball drop. 
 
 [Project 01 Double Pendulum](https://github.com/rkobbe/PHY-2200-Profolio/blob/main/DoublePendulum.ipynb)
 
@@ -26,7 +26,7 @@ In this project, we designed a system that uses coupled oscillators. In class, w
 
 [Project 04 Brownian Motion](https://github.com/rkobbe/PHY-2200-Profolio/blob/main/BrownianMotion.ipynb)
 
-In this project e research the question, How can we model Brownian Motion by simulating a pollen particle in water? We learn about the effects of Brownian Motion and how it came into effect.
+In this project we researched the question, how can we model Brownian Motion by simulating a pollen particle in water? We learn about the effects of Brownian Motion and how it came into effect.
 
 # Citations and Acknowledgements
 
